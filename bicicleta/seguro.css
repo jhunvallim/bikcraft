@@ -1,0 +1,9 @@
+.seguro-bg {
+  background-color: var(--cor-11);
+}
+
+.seguro {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
