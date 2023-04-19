@@ -4,7 +4,14 @@ body {
   color: #111111;
 }
 
-h1,h2,h3,h4,ul,p,blockquote,dd {
+h1,
+h2,
+h3,
+h4,
+ul,
+p,
+blockquote,
+dd {
   margin: 0px;
 }
 
@@ -20,9 +27,10 @@ a {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
-img[src$=".png"],  {
+img[src$=".png"] {
   border-radius: 34px;
 }
